@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potencia", "Potencia\Potencia.csproj", "{A9C5EE24-7652-46FC-9913-0448BE51C11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primos", "Primos\Primos.csproj", "{0145A54E-BAAE-42F1-9709-6B358367FF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C5EE24-7652-46FC-9913-0448BE51C11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C5EE24-7652-46FC-9913-0448BE51C11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C5EE24-7652-46FC-9913-0448BE51C11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C5EE24-7652-46FC-9913-0448BE51C11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0145A54E-BAAE-42F1-9709-6B358367FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0145A54E-BAAE-42F1-9709-6B358367FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0145A54E-BAAE-42F1-9709-6B358367FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0145A54E-BAAE-42F1-9709-6B358367FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A6E7923-6DB5-41EC-A66C-FEFF4E04599C}
+	EndGlobalSection
+EndGlobal
